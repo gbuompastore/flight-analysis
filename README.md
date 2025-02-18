@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project is a network-based analysis of global flight routes, conducted as part of the **Graph Algorithms** course within the **Master in Data Analytics (2023)** at **Roma Tre University**. The analysis leverages network theory to study the structure and properties of the worldwide flight network.
+![Descrizione](flights-network.png)
 
 ## Dataset
 The dataset represents a network of regularly occurring flights among airports worldwide. Nodes represent airports, and edges represent flight connections between them.
@@ -13,7 +14,7 @@ The dataset represents a network of regularly occurring flights among airports w
 - **Degree Distribution**: Calculating the degree of nodes and visualizing the degree distribution.
 - **Connected Components**: Identifying components and determining the existence of a giant component.
 - **Centrality Measures**: Computing degree centrality, betweenness, and PageRank to find the most influential airports.
-- **Community Detection**: Partitioning the network into communities to uncover structural patterns.
+- **Community Detection**: Partitioning the network into communities to uncover structural patterns.V
 - **Assortativity**: Analyzing degree assortativity to assess correlations between node degrees.
 - **Visualization**: Graphically representing the network to highlight key nodes and connections.
 
