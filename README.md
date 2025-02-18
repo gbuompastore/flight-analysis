@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project is a network-based analysis of global flight routes, conducted as part of the **Graph Algorithms** course within the **Master in Data Analytics (2023)** at **Roma Tre University**. The analysis leverages network theory to study the structure and properties of the worldwide flight network.
-<img src="flights-network.png" alt="Descrizione" width="300"/>
+![Descrizione](flights-network.png)
 
 ## Dataset
 The dataset represents a network of regularly occurring flights among airports worldwide. Nodes represent airports, and edges represent flight connections between them.
